@@ -2,7 +2,7 @@ console.log("Hello, Welcome to De La Salle University!");
 
 let addr = ["test", "testing"]
 
-var userdetails {
+var userdetails = {
 	firstName: "Ryan",
 	lastName: "Reynolds",
 	age: "12",
