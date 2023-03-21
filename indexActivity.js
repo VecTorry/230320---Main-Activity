@@ -1,6 +1,6 @@
 console.log("Hello, Welcome to De La Salle University!");
 
-let addr = "Lot 4, Grove Street, Grove Division, Barangay Grove, Grove City, Grove Provine, 19586";
+let addr = "Lot 4 house, Grove Street, Grove Division, Barangay Grove, Grove City, Grove Provine, 19586";
 
 var userdetails = {
 	firstName: "Ryan",
